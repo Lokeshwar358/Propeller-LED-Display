@@ -9,14 +9,6 @@ A rotating LED bar generates text, numbers, symbols, and animations using the Pe
 - POV-based rotating LED message display
 - Hall-effect sensor / IR sensor synchronization
 - 74HC595 / ULN2003 LED driver support
-- Full documentation in PDF
-- Schematics, block diagrams, and circuit overview
-
-📂 Contents
-- /src → Embedded C code for Arduino, 8051, LPC2148
-- /docs → Project PDF with working explanation
-- /images → Add hardware photos & diagrams
-- README with build instructions
 
 🛠 Hardware Used
 - Microcontroller (ATmega328 / Arduino / 8051 / LPC2148)
